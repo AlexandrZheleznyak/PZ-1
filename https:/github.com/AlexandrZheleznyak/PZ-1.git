@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="#F0FFF0">
+    <h1 align="center"> <font color="black">Визитка студента Железняка Александра Николаевича</font></h1>
+    <h2 align="center"><font color="black">Город рождения</font></h2>
+    <p><h3>Я родился и всю жизнь прожил в городе Ростове-на-Дону. Ростов-на-Дону - крупнейший город на юго-западе России, административный центр Южного федерального округа и Ростовской области. Город воинской славы(2008).</h3><p>
+    <a href=C:\Users\Student\Desktop\Железняк_ИС-21\00_rostov.jpg></a>
+    <img align="left" hspace="15" src="img/foto.png" height="300" width="300">
+    <a href="C:\Users\Student\Desktop\Железняк_ИС-21\5ea4f6bd5b0c7606641663.jpg"></a>
+    <img align="right" hspace="15" src="img/foto.png" height="300" width="300">
+    <table border="1" width="80%" cellpadding="5">
+        <tr>
+            <th><h2><font color="black">Образование</font></h2></th>
+            <th><h2><font color="black">Планы</font></h2></th>
+        </tr>
+        <tr>
+            <td><h3><font color="#778899"><h3>Сначал учился в лицее №20, потом перешёл и закончил 11 классов Школы №101(2009-21г.)</font></h3></td>
+            <td><h3><font color="#778899"><h3>Планирую сдавать ЕГЭ и поступать в ДГТУ.</font></h3></td>
+        </tr>
+        <tr>
+            <td><h3><font color="#778899"><h3>В данный момент обучаюсь в колледже РКСИ по специальности "Информационные системы"(2021-сейчас).</font></h3></td></td>
+            <td><h3><font color="#778899"><h3>Также хочу научиться играть на гитаре.</font></h3></td>
+        </tr>
+    </table> 
+</body>
+</html>
