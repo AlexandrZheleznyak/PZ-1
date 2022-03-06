@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+body  {
+background-image: url("https://catherineasquithgallery.com/uploads/posts/2021-02/1614385475_77-p-svetlo-zelenii-fon-abstraktsiya-80.jpg")
+}
+</style>
+    <h1 align="center"> <font color="black">Визитка студента Железняка Александра Николаевича</font></h1>
+    <h2 align="center"><font color="black">Город рождения</font></h2>
+    <img align="left" hspace="15" src="https://novochvedomosti.ru/wp-content/uploads/2021/01/a7b3fd149bb67c0696c282e77eea8914.jpg" alt=Rostov-on-Don1 height="230" width="350">
+    <a href=C:\Users\home-pc\Desktop\PZ-1></a>
+    <img align="right" hspace="15" src="https://sitycomfort.ru/Aparts/Rostov/r7.jpg" alt=Rostov-on-Don2 height="230" width="350">
+    <h3 align="middle"><font color="#778899">Я родился и всю жизнь прожил в городе Ростове-на-Дону. Ростов-на-Дону - крупнейший город на юго-западе России, административный центр Южного федерального округа и Ростовской области. Город воинской славы(2008). Основан по указу императрицы Елизаветы Петровны от 15 декабря 1749 года[8]. Расположен на юго-востоке Восточно-Европейской равнины, на обоих берегах реки Дон в 46 км от места её впадения в Азовское море в 1092 км к югу от Москвы.
+
+        Население — 1 137 704 человека (2021), это десятый по численности населения город России. В пределах Ростовской агломерации проживает свыше 2,16 млн человек (пятая по численности агломерация страны).
+        
+        Город является крупным административным, экономическим, культурным, научно-образовательным, промышленным центром и важнейшим транспортным узлом Юга России. Неофициально Ростов именуют «Воротами Кавказа» и «Южной столицей России», а также «Донской столицей». 21 февраля 2019 года Ростов-на-Дону был признан региональной столицей на законодательном уровне.
+        
+        В 2018 году Ростов-на-Дону был одним из городов, в которых прошли матчи чемпионата мира по футболу</font></h3>
+        <a href="C:\Users\home-pc\Desktop\PZ-1"></a>
+        <img align="right" hspace="15" src="https://sun9-37.userapi.com/impg/zfZl4hY55ILYKtwYKdYmZBv3gk7g3oz7kALqLQ/-8TV85Hm1NY.jpg?size=900x1200&quality=95&sign=2a055bbad8cde02f80f2dcce5399aea2&type=album" height="280" width="250">
+        <table border="1" width="80%">
+            <tr>
+                <th><h2><font color="black">Образование</font></h2></th>
+                <th><h2><font color="black">Планы</font></h2></th>
+            </tr>
+            <tr>
+                <td><h3><font color="#778899"><h3>Сначал учился в лицее №20, потом перешёл и закончил 11 классов Школы №101(2009-21г.)</font></h3></td>
+                <td><h3><font color="#778899"><h3>Планирую сдавать ЕГЭ и поступать в ДГТУ.</font></h3></td>
+            </tr>
+            <tr>
+                <td><h3><font color="#778899"><h3>В данный момент обучаюсь в колледже РКСИ по специальности "Информационные системы"(2021-сейчас).</font></h3></td></td>
+                <td><h3><font color="#778899"><h3>Также хочу научиться играть на гитаре.</font></h3></td>
+            </tr>
+        </table> 
+</body>
+</html>
